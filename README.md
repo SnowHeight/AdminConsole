@@ -1,2 +1,2 @@
 # AdminConsole
-Verwaltungskonsole für die Messstationen
+Managment-Program for the weather stations
